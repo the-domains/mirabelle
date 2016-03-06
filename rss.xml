@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[mirabelle]]></title>
         <description><![CDATA[mirabelle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mirabelle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 11:58:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 12:14:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mirabelle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>null</p>]]></description>
+            <link>https://thegrid.ai/mirabelle/834ac993-9bce-43aa-8798-85992e2f0805/index.html</link>
+            <guid isPermaLink="false">834ac993-9bce-43aa-8798-85992e2f0805</guid>
+            <pubDate>Sun, 06 Mar 2016 12:13:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Ez az első bejegyzés</p>]]></description>
-            <link>undefined8a81aaaf-15a6-4ab6-b4c3-5cc800d5caec/index.html</link>
+            <link>https://thegrid.ai/mirabelle/8a81aaaf-15a6-4ab6-b4c3-5cc800d5caec/index.html</link>
             <guid isPermaLink="false">8a81aaaf-15a6-4ab6-b4c3-5cc800d5caec</guid>
             <pubDate>Sun, 06 Mar 2016 11:58:47 GMT</pubDate>
         </item>
