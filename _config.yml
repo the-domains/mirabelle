@@ -1,0 +1,28 @@
+name: mirabelle
+favicon: null
+layout_spectrum: 0.38205001619644463
+typography_spectrum: 0.26352443592622876
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3944636886008084
+  lightness: 0.9488892583176494
+  saturation: 0.05007550516165793
+  rhythmicContrast: 0.08563787722960114
+purpose: []
