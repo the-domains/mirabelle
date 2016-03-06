@@ -4,7 +4,7 @@
         <description><![CDATA[mirabelle]]></description>
         <link>https://thegrid.ai/mirabelle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 12:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 12:34:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mirabelle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Ez az első bejegyzés</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6fa6342-f027-4318-b97c-c667c0d91e08.jpg">]]></description>
             <link>https://thegrid.ai/mirabelle/8a81aaaf-15a6-4ab6-b4c3-5cc800d5caec/index.html</link>
             <guid isPermaLink="false">8a81aaaf-15a6-4ab6-b4c3-5cc800d5caec</guid>
-            <pubDate>Sun, 06 Mar 2016 11:58:47 GMT</pubDate>
+            <pubDate>Sun, 06 Mar 2016 12:32:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
