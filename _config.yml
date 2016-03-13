@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: mirabelle
 opengraph:
   image: null
   type: null
@@ -12,29 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.3978723
-  brandStrength: 0.4106383
-  lightness: 0.8638298
+  saturation: 1
+  brandStrength: 0.01914894
+  lightness: 1
   brandColors:
     - '#fefefe'
     - '#b1b2b7'
     - '#070506'
     - '#65605d'
     - '#9e2200'
-  rhythmicContrast: 0.6255319
-typography_spectrum: 1
+  rhythmicContrast: 1
+typography_spectrum: 0
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.6510639
+layout_spectrum: 0
 favicon: null
-name: mirabelle
+analytics:
+  twitter: null
+  google: null
+  facebook: null
